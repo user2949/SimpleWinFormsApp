@@ -1,0 +1,17 @@
+C:\Users\alcan\source\repos\SimpleWinFormsApp\SimpleWinFormsApp\bin\Debug\net6.0-windows\SimpleWinFormsApp.exe
+C:\Users\alcan\source\repos\SimpleWinFormsApp\SimpleWinFormsApp\bin\Debug\net6.0-windows\SimpleWinFormsApp.deps.json
+C:\Users\alcan\source\repos\SimpleWinFormsApp\SimpleWinFormsApp\bin\Debug\net6.0-windows\SimpleWinFormsApp.runtimeconfig.json
+C:\Users\alcan\source\repos\SimpleWinFormsApp\SimpleWinFormsApp\bin\Debug\net6.0-windows\SimpleWinFormsApp.dll
+C:\Users\alcan\source\repos\SimpleWinFormsApp\SimpleWinFormsApp\bin\Debug\net6.0-windows\SimpleWinFormsApp.pdb
+C:\Users\alcan\source\repos\SimpleWinFormsApp\SimpleWinFormsApp\obj\Debug\net6.0-windows\SimpleWinFormsApp.csproj.AssemblyReference.cache
+C:\Users\alcan\source\repos\SimpleWinFormsApp\SimpleWinFormsApp\obj\Debug\net6.0-windows\SimpleWinFormsApp.Form1.resources
+C:\Users\alcan\source\repos\SimpleWinFormsApp\SimpleWinFormsApp\obj\Debug\net6.0-windows\SimpleWinFormsApp.csproj.GenerateResource.cache
+C:\Users\alcan\source\repos\SimpleWinFormsApp\SimpleWinFormsApp\obj\Debug\net6.0-windows\SimpleWinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alcan\source\repos\SimpleWinFormsApp\SimpleWinFormsApp\obj\Debug\net6.0-windows\SimpleWinFormsApp.AssemblyInfoInputs.cache
+C:\Users\alcan\source\repos\SimpleWinFormsApp\SimpleWinFormsApp\obj\Debug\net6.0-windows\SimpleWinFormsApp.AssemblyInfo.cs
+C:\Users\alcan\source\repos\SimpleWinFormsApp\SimpleWinFormsApp\obj\Debug\net6.0-windows\SimpleWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\alcan\source\repos\SimpleWinFormsApp\SimpleWinFormsApp\obj\Debug\net6.0-windows\SimpleWinFormsApp.dll
+C:\Users\alcan\source\repos\SimpleWinFormsApp\SimpleWinFormsApp\obj\Debug\net6.0-windows\refint\SimpleWinFormsApp.dll
+C:\Users\alcan\source\repos\SimpleWinFormsApp\SimpleWinFormsApp\obj\Debug\net6.0-windows\SimpleWinFormsApp.pdb
+C:\Users\alcan\source\repos\SimpleWinFormsApp\SimpleWinFormsApp\obj\Debug\net6.0-windows\SimpleWinFormsApp.genruntimeconfig.cache
+C:\Users\alcan\source\repos\SimpleWinFormsApp\SimpleWinFormsApp\obj\Debug\net6.0-windows\ref\SimpleWinFormsApp.dll
